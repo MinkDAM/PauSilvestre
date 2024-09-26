@@ -28,3 +28,5 @@
 
 ```
 Dejo aquí un link para quien quiera personalizar su presentación [Markdown Guide](https://www.markdownguide.org)
+
+![imagen](https://github.com/user-attachments/assets/100a510d-c39c-40bb-a3b1-be8abe6ef56d)
