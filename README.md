@@ -18,6 +18,6 @@
 | CSS | si |
 | python | no |
 
-[^1]: Porque no me acuerdo
-Ya no me acuerdo porque hace años que no los uso [^1]
+- [x] Porque no me acuerdo
+- [x]Ya no me acuerdo porque hace años que no los uso
 
