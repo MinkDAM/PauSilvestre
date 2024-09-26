@@ -23,5 +23,5 @@
 
 ```
 {
-  "Fun fact, fui programador de servidores de FiveM (servidores /"privados/" de GTA V rp)",
+  "Fun fact, fui programador de servidores de FiveM (servidores "privados" de GTA V rp)",
 }
