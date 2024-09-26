@@ -19,5 +19,9 @@
 | python | no |
 
 - [x] Porque no me acuerdo
-- [x]Ya no me acuerdo porque hace años que no los uso
+- [x] Ya no me acuerdo porque hace años que no los uso
 
+```
+{
+  "Fun fact, fui programador de servidores de FiveM (servidores /"privados/" de GTA V rp)",
+}
