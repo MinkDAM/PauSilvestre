@@ -25,3 +25,6 @@
 {
   "Fun fact, fui programador de servidores de FiveM (servidores "privados" de GTA V rp)",
 }
+
+```
+Dejo aquí un link para quien quiera personalizar su presentación [Markdown Guide](https://www.markdownguide.org)
